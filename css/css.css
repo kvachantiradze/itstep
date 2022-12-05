@@ -1,9 +1,203 @@
-body{
-    background-color: black;
+header{
+ background-image: url(../img/nicolai-kramer-unsplash.jpg);    
+ background-repeat: no-repeat;
+ background-size: cover;
+ /* background-position: center  ; */
+ height: 600px;
+ }
+
+.main{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+     margin: 30px;
+     color: white;
 }
 
-header{
-    background-color: blue;
-    width: 500px;
-    height: 500px;
+.main h1{
+    margin: 30px;
+   
 }
+
+.main a{
+    border: solid 2px ;
+    border-radius: 40px ;
+    width: 200px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 30px;
+    display: inline-flex;
+}
+
+.download{
+  color: white;
+  background-color: rgb(202, 202, 0);
+  border:   rgb(202, 202, 0) !important;
+}
+
+.more{
+    color:rgb(181, 181, 0);
+  background-color:none;
+  border: rgb(187, 187, 0);
+}
+
+.navbar-nav{
+    margin-left: auto;
+    font-size: 25px;
+    }
+ 
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: rgba(179, 255, 0, 0.712);
+    font-size: 50px;
+}
+
+
+.mybox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:  30px ;
+    }
+ 
+.mybox1{
+ margin: 20px;
+ width: 250px;
+ height: 400px;
+}
+
+.mybox2{
+    margin: 20px;
+    width: 250px;
+    height: 400px;
+}
+
+.mybox3{
+    margin: 20px;
+    width: 250px;
+    height: 400px;
+}
+
+.mybox4{ 
+ margin: 20px;
+ width: 250px;
+ height: 400px;
+}
+
+.mybox1 svg{
+    height: 100px;
+    width: 100px;
+    color: rgb(172, 132, 132);
+}
+
+.mybox2 svg{
+    width: 100px;
+    height: 100px;
+    color: rgb(1, 122, 35);
+}
+
+.mybox3 svg{
+    height: 100px;
+    width: 100px;
+    color: rgb(153, 153, 0);
+}
+
+.mybox4 svg{
+    height: 100px;
+    width: 100px;
+    color: rgb(40, 0, 186);
+}
+
+section{
+    background: rgb(216, 214, 214);
+    margin-top:  70px ;
+   height: 600px;
+    }
+.section{
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    padding: 40px;
+}
+
+
+.mybox a{
+   justify-content: left ;
+   align-items: left ;
+   text-align: left ;
+   display: flex;
+   color: rgb(192, 192, 6);
+   font-size: 20px;
+    
+}
+
+.text{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:  50px ;
+
+}
+ .image img{
+    width: 350px;
+    height: 150px;
+}
+
+.image{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   display:flex;
+   flex-wrap: wrap;
+   
+}
+
+.img1{
+    margin: 20px;
+}
+
+.img2{
+    margin: 20px;
+}
+
+.img3{
+    margin: 20px;
+}
+
+.img4{
+    margin: 20px;
+}
+
+.img5{
+    margin: 20px;
+}
+
+.img6{
+    margin: 20px;
+}
+
+
+
+img{
+    height: 400px;
+}
+
+.last{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:  50px ;
+
+}
+
+.card{
+    margin: 30px;
+    height: 200px;
+}
+
