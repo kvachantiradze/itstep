@@ -225,11 +225,16 @@ color: #F4F6FC !important;
 
 	.test{
 		margin: 0;
+		width: 285px;
+		display: flex;
+		flex-wrap: wrap;
 	}
 	.end{
 	     display: flex;
 		flex-wrap: wrap;
 		margin: 0;
+		width: 285px;
+		
 	}
  
 	.end1{
@@ -243,6 +248,9 @@ color: #F4F6FC !important;
 
 	 .one{
 		margin: 0;
+		width: 285px;
+		display: flex;
+		flex-wrap: wrap;
 
 		
 	}
