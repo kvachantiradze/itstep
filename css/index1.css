@@ -1,0 +1,213 @@
+
+
+
+nav{
+    background-color: #FFFFFF03;
+    
+   
+    
+}
+
+.navbar-nav{
+margin: auto;
+  
+   
+   
+   }
+
+ .navbar-nav a{
+   margin-top: 37px;
+   margin-bottom: 37px;
+   color: #00446A;
+   font-size: 20px;
+   margin-inline:39px;
+
+   
+ }
+
+   svg{
+    margin-left: 140px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+    
+   
+   }
+
+   
+
+   .card{
+    border:none;
+    margin-top: 140px;
+    margin-left: 140px;
+   }
+
+
+
+   .card h1{
+    color: #00446A;
+    font-size: 60px;
+   }
+
+
+   .card h2{
+    color:  #FF7233;
+    font-size: 60px;
+   }
+
+   .card p{
+    margin-top: 30px;
+    font-size: 16px;
+   }
+   
+ .try{
+    background: #00446A;
+     border-radius: 10px;
+     width: 152px;
+     height: 42px;
+     border: none;
+     color:  #FFFFFF;
+     
+ }
+
+ .discover{
+    width: 152px;
+   height: 42px;
+   border: 1px solid #FF7233;
+  border-radius: 10px;
+   color: #FF7233;
+   margin-left: 25px;
+
+ }
+ 
+ 
+
+ .img h1{
+    font-size: 14px;
+    margin-top: 16px;
+    
+ }
+ .img p{
+    font-size: 12px;
+    margin-top: 4px;
+    margin-bottom: 30px;
+ }
+ .row{
+   
+    text-align: center;
+ 
+ }
+
+ .img {
+     width: 196px;
+  height: 210px;
+ background: #FFFFFF;
+ border-radius: 8px;
+ text-align: start;
+ padding: 10px;
+ 
+ 
+}
+
+ .photo{
+    background-color: none;
+    background-image:url(../img/Screenshot\ 2022-11-26\ 101410\ 1.jpg);
+    height: 520px;
+    max-width: 100%;
+    width: 520px;
+    border-radius: 22.0886px;
+    justify-content: right;
+    display: flex;
+    /* margin-top: 109px; */
+    background-repeat: no-repeat;
+    
+ }
+
+.h{
+    text-align: center;
+    font-size: 30px;
+    color: #020829;
+    margin-top: 109px;
+}
+
+.logo{
+    margin-top: 68px;
+    text-align: center;
+    
+}
+
+.logo a{
+   padding-left: 50px;
+   padding-right: 50px;
+}
+ 
+ .b{
+    text-align: center;
+    font-size: 30px;
+    color: #020829;
+    margin-top: 81px;
+ }
+.card-group{
+    justify-content: center;
+    margin-top: 67px;
+}
+ .card1{
+   justify-content: center;
+   padding-left: 40px;
+   padding-right: 40px;
+ }
+
+ .card1 h5{
+    margin-top: 17px;
+    font-size: 17.7802px;
+    color: #020829;
+ }
+
+ .card1 p{
+    margin-top: 7px;
+    font-size: 13.9701px;
+    color: #38444F;
+ }
+
+ .g{
+    text-align: center;
+    font-size: 30px;
+    color: #020829;
+    margin-top: 81px;
+ }
+
+ .mybox{
+    display: flex;
+    justify-content: center;
+   margin-top: 61px;
+   flex-wrap: wrap;
+ }
+
+
+
+ .box{
+    padding: 10px;
+    margin: 20px;
+    width: 275px;
+height: 277px;
+text-align: center;
+ }
+
+ .box h1{
+    font-weight: 500px;
+   font-size: 14px;
+ }
+
+ .box p{
+    font-size: 12px;
+    margin-top: 10px;
+ }
+
+ .box img{
+    margin-top: 30px;
+ }
+
+ .box h6{
+    margin-top: 8px;
+    color: #6C6C6C;
+    font-size: 12px;
+ }
