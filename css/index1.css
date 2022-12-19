@@ -91,8 +91,9 @@ margin: auto;
     margin-top: 4px;
     margin-bottom: 30px;
  }
- .row{
-   
+ .roww{
+   display: flex;
+   flex-wrap: wrap;
     text-align: center;
  
  }
@@ -210,4 +211,60 @@ text-align: center;
     margin-top: 8px;
     color: #6C6C6C;
     font-size: 12px;
+ }
+
+
+ .a h1{
+   text-align: center;
+   font-size: 30px;
+   color: #020829;
+   margin-top: 81px;
+ }
+
+ button{
+   border: 1px solid  #FFFFFF;
+   border-radius: 9px;
+   color: #FFFFFF;
+   margin: 10px;
+}
+
+.row{
+   text-align: start !important;
+}
+
+.p{
+   width: 329px;
+   
+   color: #424242;
+   font-size: 13px;
+}
+.ss a{
+   text-overflow: none;
+   text-decoration: none;
+   color: #424242;
+   font-size: 14px;
+}
+.ss h1{
+   font-size: 16px;
+   color: #2D2C2C;
+}
+
+.rs{
+  display: flex;
+   flex-wrap: wrap;
+  
+}
+
+.ss{
+   margin: 70px;
+   
+   
+  
+   }
+
+footer{
+   margin-top: 50px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:center;
  }
